@@ -1,6 +1,6 @@
 # Política de Privacidad – MosquitoRisk
 
-**Última actualización:** 29/09/2025
+**Última actualización:** 21/10/2025
 
 Bienvenido a MosquitoRisk. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos la información del usuario.
 Además, esta app utiliza la librería de terceros Lottie para animaciones internas.
